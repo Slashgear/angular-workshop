@@ -15,7 +15,11 @@
 }
 
 .cover img {
-  position: asolute;
+  position: absolute;
   margin-top: 150px;
   height:70px;
+}
+
+.column.has-text-centered {
+  width: 100%;
 }
